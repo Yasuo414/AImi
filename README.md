@@ -1,4 +1,4 @@
-# AImi : Former Japanese idol
+# AImi
 ## Lore
 Aimi Yamamoto, born in 1996 in a small Japanese village, has longed to be a broadcaster since childhood.
 With her unique voice and natural talent, she gained a YouTube following and eventually signed with a J-Pop agency.
