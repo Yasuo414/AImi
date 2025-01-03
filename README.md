@@ -26,6 +26,19 @@ allowing her legacy to continue through AI tools.
 
 ## Conditions of use
 ### Prohibited Content
-**
-1.
-**
+**1. Illegal or Forbidden Content:** Any material that violates laws or regulations in your country.
+**2. Sexual Content:** Content with explicit sexual themes or erotic nature.
+**3. Dangerous Content:** Content promoting violence, self-harm, extremism, or anything that could endanger individuals or the public.
+**4. Political Content:** Promotion of political ideologies, parties, candidates, or politically charged messages.
+**5. Disrespectful Content:** Content that demeans, insults, or mocks individuals, groups, cultures, religions, or communities.
+
+### Respect for Aimi's Integrity
+Aimi's voicebank is a creative tool and must be used respectfully. Any misuse that tarnishes Aimi's reputation, legacy, or the creator's intentions is prohibited.
+
+### Enforcement
+The creators reserve the right to take action, including revoking access to Aimi's voicebank or reporting misuse, if these conditions are violated.
+
+### Acceptance
+By downloading or using Aimi's voicebank, you confirm your agreement to these Conditions of Use and commit to upholding them.
+
+Let me know if you'd like to tweak this or add anything else!
