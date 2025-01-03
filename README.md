@@ -26,3 +26,6 @@ allowing her legacy to continue through AI tools.
 
 ## Conditions of use
 ### Prohibited Content
+**
+1.
+**
